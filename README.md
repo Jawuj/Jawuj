@@ -13,9 +13,6 @@
 
 - 💬 Just another student — deeply obsessed with **Obsidian** and **sepia tones**, as strange as that may sound.  
 - 🌱 Currently studying **Software Development**, with a focus on **C++** and digital aesthetics.
-
-**¿Currently listen music?**
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6950omz4loikmxb81qownfpgs&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6950omz4loikmxb81qownfpgs&redirect=true)
 
 
