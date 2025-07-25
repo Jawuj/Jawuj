@@ -1,6 +1,6 @@
 ## Hi, I'm David.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/headerwelcome.png" alt="Header Jawuj" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/headerwelcome.png" alt="Header Jawuj" width="85%" />
 </p>
 
 <p align="left"> 
