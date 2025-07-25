@@ -13,10 +13,11 @@
 
 ## 🪞 About Me
 
+- ✒️ 18 years old.
 - 💬 Just another student — deeply obsessed with **Obsidian** and **sepia tones**, as strange as that may sound.  
 - 🌱 Currently studying **Software Development**, with a focus on **C++** and digital aesthetics.
-- 
-
+- 📓 I write poetry and journal every day. Everything matters if it's written.
+- 🎧 Music is memory: I track my favorite 217+ albums with reviews and dates.
 
 
 ## 🛠 I Use
