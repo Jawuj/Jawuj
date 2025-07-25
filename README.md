@@ -7,14 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=Jawuj&color=7B4E34" alt="Profile Views" />
 </p>
 
----
+
 
 ## 🪞 About Me
 
 - 💬 Just another student — deeply obsessed with **Obsidian** and **sepia tones**, as strange as that may sound.  
 - 🌱 Currently studying **Software Development**, with a focus on **C++** and digital aesthetics.
 
----
+
 
 ## 🛠 I Use
 
@@ -22,11 +22,11 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
----
+
 
 ## 📁 Projects & Repositories
 
 - 🔮 [`Obsidian-Vault-Setup`](https://github.com/Jawuj/Obsidian-Vault-Setup.):  
-  A personal Obsidian vault setup with 217 albums, daily notes, timelines, and a fully customized sepia theme.
+   A personal Obsidian vault setup , daily notes, tasks, and a fully customized sepia theme.
 
 ---
