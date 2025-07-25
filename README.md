@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/headerwelcome.png" alt="Header Jawuj" width="85%" />
 </p>
 
-<p align="left"> 
+---
+
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Jawuj&color=7B4E34" alt="Profile Views" />
 </p>
 
