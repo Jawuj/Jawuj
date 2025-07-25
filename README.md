@@ -9,7 +9,12 @@
  
 ## About Me. 
 💬 - Actualmente solo un estudiante más, obsesionado con Obsidian y tonos sepia por más extraño que parezca. 
-🌱 - Estudiando Desarrollo de Software.
+🌱 - Estudiando Desarrollo de Software | C++.
+
+
+## I Use.
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Projects/Repositories 
 
