@@ -1,21 +1,32 @@
-## Hi, I'm David.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/headerwelcome.png" alt="Header Jawuj" width="85%" />
 </p>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Jawuj&color=7B4E34" alt="watching_count" />
- </p>
- 
-## About Me. 
-💬 - Actualmente solo un estudiante más, obsesionado con Obsidian y tonos sepia por más extraño que parezca. 
-🌱 - Estudiando Desarrollo de Software | C++.
+  <img src="https://komarev.com/ghpvc/?username=Jawuj&color=7B4E34" alt="Profile Views" />
+</p>
 
+---
 
-## I Use.
+## 🪞 About Me
+
+- 💬 Just another student — deeply obsessed with **Obsidian** and **sepia tones**, as strange as that may sound.  
+- 🌱 Currently studying **Software Development**, with a focus on **C++** and digital aesthetics.
+
+---
+
+## 🛠 I Use
+
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-### Projects/Repositories 
+---
 
-- 🔮 [obsidian-vault](https://github.com/Jawuj/Obsidian-Vault-Setup.) 
+## 📁 Projects & Repositories
+
+- 🔮 [`Obsidian-Vault-Setup`](https://github.com/Jawuj/Obsidian-Vault-Setup.):  
+  A personal Obsidian vault setup with 217 albums, daily notes, timelines, and a fully customized sepia theme.
+
+---
