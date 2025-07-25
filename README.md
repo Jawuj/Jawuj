@@ -1,5 +1,7 @@
 ## Hi, I'm David.
-<img src="https://github.com/davidmoron/Jawuj/blob/main/headerwelcome.png" alt="Header Jawuj" style="width:100%;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/headerwelcome.png" alt="Header Jawuj" width="100%" />
+</p>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Jawuj&color=7B4E34" alt="watching_count" />
