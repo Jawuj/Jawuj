@@ -1,7 +1,11 @@
 ## Hi, I'm David.
 
-Actualmente solo un estudiante más obsesionado con Obsidian.
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ 
+Actualmente solo un estudiante más, obsesionado con Obsidian y tonos sepia por más extraño que parezca. 
 
-# Projects/Repositories 
+### Projects/Repositories 
 
-- 🔮 [obsidian-vault](https://github.com/davidmoron/obsidian-vault):  
+- 🔮 [obsidian-vault](https://github.com/Jawuj/Obsidian-Vault-Setup.) 
