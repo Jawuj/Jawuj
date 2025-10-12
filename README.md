@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/WelcomeBannerByJawuj.png" alt="Header Jawuj" width="85%" />
+  <img src="https://raw.githubusercontent.com/Jawuj/Jawuj/main/WelcomeBannerByJawuj.png" alt="Header Jawuj" width="100%" />
 </p>
 
 ---
@@ -28,9 +28,9 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
 
-## 📁 Projects & Repositories
+## 🗡 Projects & Repositories
 
-- 🔮 [`Obsidian-Vault-Setup`](https://github.com/Jawuj/Obsidian-Vault-Setup.):  
+- ࿇ [`Obsidian-Vault-Setup`](https://github.com/Jawuj/Obsidian-Vault-Setup.):  
    A personal Obsidian vault setup , daily notes, tasks, and a fully customized sepia theme.
 
 ---
