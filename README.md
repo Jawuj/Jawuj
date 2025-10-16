@@ -32,6 +32,8 @@
 
 - ࿇ [`Obsidian-Vault-Setup`](https://github.com/Jawuj/Obsidian-Vault-Setup.):  
    A personal Obsidian vault setup , daily notes, tasks, and a fully customized sepia theme.
+- ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
+  A Blur Theme Obsidian With Custom Wallpaper.  
 
 ---
 
