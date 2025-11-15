@@ -14,10 +14,10 @@
 ## ⚰︎ About Me
 
 - ⌖ 18 years old.
-- ⌖ Just another student — deeply obsessed with **Obsidian**, **Linux (arch)** **black tones** and **sepia tones** as strange as that may sound.  
+- ⌖ Just another student — deeply obsessed with **Obsidian**, **Linux (arch)**, **black tones** and **sepia tones** as strange as that may sound.  
 - ⌖ Currently studying **Software Development**, with focus on digital aesthetics.
 - ⌖ I write poetry and journal every day. Everything matters if it's written.
-- ⌖ Music is memory: I track my 217+ listened albums with reviews and dates.
+- ⌖ Music is memory: I track my 230+ listened albums with reviews and dates.
 - ⌖ Educational Account: [DavidMrn](https://github.com/DavidMrn)
 
 
