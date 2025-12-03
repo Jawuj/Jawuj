@@ -18,7 +18,7 @@
 - ⌖ Currently studying **Software Development**, with focus on digital aesthetics.
 - ⌖ I write poetry and journal every day. Everything matters if it's written.
 - ⌖ Music is memory: I track my 230+ listened albums with reviews and dates.
-- ⌖ Educational Account: [DavidMrn](https://github.com/DavidMrn)
+- ⌖ Educational Account: [DavidMrn](https://github.com/DavidMrn) & [My Personal Website](https://www.jawuj.xyz/)
 
 
 ## ִ ࣪𖤐 I Use
