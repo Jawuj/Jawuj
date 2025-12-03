@@ -35,6 +35,9 @@
    A personal Obsidian vault setup , daily notes, tasks, and a fully customized sepia theme.
 - ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
+- ࿇ [`Dotfiles`](https://github.com/Jawuj/Dotfiles):  
+  My Arch Linux + Hyprland Dotfiles.
+
 
 ---
 
