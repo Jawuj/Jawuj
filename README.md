@@ -3,7 +3,6 @@
   <img src="Img/H.png" alt="Header Jawuj" width="100%" />
 </p>
 
----
 
 <img src="Img/ATP.png" alt="About This Person Title"/>
 
@@ -27,8 +26,6 @@
    
 ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
-
----
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6950omz4loikmxb81qownfpgs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
