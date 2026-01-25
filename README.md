@@ -12,12 +12,13 @@
 
 <img src="Img/IS.png" alt="I Use Title" />
 
-![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white)
-![Zen Browser](https://img.shields.io/badge/Zen%20Browser-black?style=for-the-badge&logo=firefox-browser&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-black?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-black?style=for-the-badge&logo=samsung&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=arch-linux&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&logo=obsidian&logoColor=black)
+![Zen Browser](https://img.shields.io/badge/Zen%20Browser-white?style=for-the-badge&logo=firefox-browser&logoColor=black)
+![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=microsoftonedrive&logoColor=black)
+![Samsung](https://img.shields.io/badge/Samsung-white?style=for-the-badge&logo=samsung&logoColor=black)
+
 
 <img src="Img/Rps.png" alt="Repositories Title" />
 
