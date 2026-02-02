@@ -21,6 +21,7 @@
 
 <img src="Img/IS.png" alt="I Use Title" />
 
+![Vscodium](https://img.shields.io/badge/vscodium-white?style=for-the-badge&logo=vscodium&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=arch-linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&logo=obsidian&logoColor=black)
