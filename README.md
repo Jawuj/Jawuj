@@ -14,7 +14,7 @@
 <img src="Img/Rps.png" alt="Repositories Title" />
 
 ࿇ [`Obsidian-Vault-Setup`](https://github.com/Jawuj/Obsidian-Vault-Setup.):  
-   A personal Obsidian vault setup , daily notes, tasks, and a fully customized sepia theme.
+   A personal Obsidian vault setup , daily notes, tasks, and a fully customized sepia and black theme.
    
 ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
@@ -22,7 +22,6 @@
 <img src="Img/IS.png" alt="I Use Title" />
 
 ![Vscodium](https://img.shields.io/badge/vscodium-white?style=for-the-badge&logo=vscodium&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=arch-linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&logo=obsidian&logoColor=black)
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-white?style=for-the-badge&logo=firefox-browser&logoColor=black)
