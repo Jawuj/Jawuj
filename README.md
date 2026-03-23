@@ -21,11 +21,10 @@
 
 <img src="Img/IS.png" alt="I Use Title" />
 
+![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos&logoColor=black)
 ![Vscodium](https://img.shields.io/badge/vscodium-white?style=for-the-badge&logo=vscodium&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=arch-linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&logo=obsidian&logoColor=black)
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-white?style=for-the-badge&logo=firefox-browser&logoColor=black)
-![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=microsoftonedrive&logoColor=black)
 ![Samsung](https://img.shields.io/badge/Samsung-white?style=for-the-badge&logo=samsung&logoColor=black)
 
 
