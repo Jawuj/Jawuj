@@ -6,10 +6,7 @@
 
 <img src="Img/ATP.png" alt="About This Person Title"/>
 
-⌖ 18 years old
-
 ⌖ I Love Minimalist & Monochromatic Colors (Black & White)
-
 
 <img src="Img/Rps.png" alt="Repositories Title" />
 
@@ -19,14 +16,17 @@
 ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
 
+࿇ [`NixOsConfig`](https://github.com/Jawuj/dotfiles):  
+  Just a showcase.
+
+  
 <img src="Img/IS.png" alt="I Use Title" />
 
-![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos&logoColor=black)
-![Vscodium](https://img.shields.io/badge/vscodium-white?style=for-the-badge&logo=vscodium&logoColor=black)
-![Obsidian](https://img.shields.io/badge/Obsidian-white?style=for-the-badge&logo=obsidian&logoColor=black)
-![Zen Browser](https://img.shields.io/badge/Zen%20Browser-white?style=for-the-badge&logo=firefox-browser&logoColor=black)
-![Samsung](https://img.shields.io/badge/Samsung-white?style=for-the-badge&logo=samsung&logoColor=black)
-
+![NixOS](https://img.shields.io/badge/NixOS-black?style=for-the-badge&logo=nixos&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-black?style=for-the-badge&logo=hyprland&logoColor=white)
+![Vscodium](https://img.shields.io/badge/vscodium-black?style=for-the-badge&logo=vscodium&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Zen%20Browser-black?style=for-the-badge&logo=firefox-browser&logoColor=white)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6950omz4loikmxb81qownfpgs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
