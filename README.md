@@ -16,18 +16,16 @@
 ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
 
-࿇ [`NixOsConfig`](https://github.com/Jawuj/dotfiles):  
+࿇ [`Arch Config`](https://github.com/Jawuj/dotfiles):  
   Just a showcase.
 
   
 <img src="Img/IS.png" alt="I Use Title" />
 
-![NixOS](https://img.shields.io/badge/NixOS-black?style=for-the-badge&logo=nixos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-black?style=for-the-badge&logo=hyprland&logoColor=white)
-![Vscodium](https://img.shields.io/badge/vscodium-black?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-black?style=for-the-badge&logo=firefox-browser&logoColor=white)
-
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6950omz4loikmxb81qownfpgs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
