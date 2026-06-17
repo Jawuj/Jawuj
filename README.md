@@ -15,10 +15,6 @@
    
 ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
-
-࿇ [`Arch Config`](https://github.com/Jawuj/dotfiles):  
-  Just a showcase.
-
   
 <img src="Img/IS.png" alt="I Use Title" />
 
