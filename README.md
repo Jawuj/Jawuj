@@ -22,6 +22,3 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-black?style=for-the-badge&logo=hyprland&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-black?style=for-the-badge&logo=firefox-browser&logoColor=white)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6950omz4loikmxb81qownfpgs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
