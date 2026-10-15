@@ -37,7 +37,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.last.fm/user/Jawuj">
-    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Jawuj&theme=transparent&count=5&width=480&text_color=ffffff&artist_color=9f7984&meta_color=9f7984&accent_color=9f7984&loved_color=9f7984&logo_color=9f7984&stats=block-center&footer=wave" />
-  </a>
+<a href="https://www.last.fm/user/Jawuj">
+  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Jawuj&amp;theme=transparent&amp;count=10&amp;width=660&amp;radius=0&amp;header=0&amp;profile=footer-left&amp;stats=block-center&amp;text_color=ffffff&amp;artist_color=9f7984&amp;meta_color=956f7a&amp;accent_color=9f7984&amp;loved_color=9f7984&amp;logo_color=9f7984" alt="Last.fm recently played" width="660" />
+</a>
 </p>
