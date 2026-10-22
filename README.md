@@ -14,17 +14,6 @@
    
 ࿇ [`Blur-Theme`](https://github.com/Jawuj/Blur-Theme):  
   A Blur Theme Obsidian With Custom Wallpaper.  
-  
-<img src="Img/IS.png" alt="I Use Title" />
-
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=)
-![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
-![Helium Browser](https://img.shields.io/badge/Helium%20Browser-000000?style=for-the-badge&logo=heliumbrowser&logoColor=white)
-[![Last.fm](https://img.shields.io/badge/Last.fm-000000?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Jawuj)
-[![Links](https://img.shields.io/badge/Links-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/jawuj)
-[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6950omz4loikmxb81qownfpgs)
 
 <img src="Img/Ot.png" alt="Others Title" />
 
